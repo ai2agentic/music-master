@@ -2,7 +2,7 @@
 
 ## Projekt
 
-Eigenes Agentic-Projekt
+Music Master
 
 ## Aktueller Stand
 

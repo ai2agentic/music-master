@@ -1,4 +1,4 @@
-# Eigenes Agentic-Projekt
+# Music Master
 
 Dieses Repository ist ein sauberer Startpunkt für eine eigene Idee nach dem Agentic-Engineering-Prinzip.
 

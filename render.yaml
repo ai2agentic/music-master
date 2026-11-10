@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: music-master
+    runtime: docker
+    plan: free
+    healthCheckPath: /
+    envVars:
+      - key: APP_PASSWORD
+        sync: false

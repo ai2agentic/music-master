@@ -21,3 +21,7 @@ APP_PASSWORD='dein-persönliches-passwort' npm start
 ```
 
 Danach im Browser `http://localhost:3000` öffnen. Wenn `APP_PASSWORD` fehlt, verwendet die Entwicklungsumgebung den Platzhalter `change-me-now`; vor jeder Nutzung muss ein eigenes Passwort gesetzt werden.
+
+## Öffentliche Node.js-Bereitstellung
+
+Das Repository enthält ein `Dockerfile` und `render.yaml` für einen Node.js-Webdienst. Der Dienst braucht ein Hosting-Konto und ein gesetztes `APP_PASSWORD`. Der lokale `mp3/`-Ordner wird nicht in Git versioniert und muss bei einem öffentlichen Server separat und rechtlich zulässig bereitgestellt werden.

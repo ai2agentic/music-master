@@ -16,3 +16,7 @@ Dieses Projekt wird schrittweise entwickelt. Jede grössere Änderung beginnt mi
 ## Qualitätsstandard
 
 Eine Änderung ist erst fertig, wenn sie dokumentiert, testbar und für die Zielperson verständlich ist.
+
+## Codex-Arbeitsweise
+
+Codex verwendet `AGENTS.md` als dauerhafte Projektanweisung. Vor einer Änderung liest Codex zusätzlich `GOALS.md`, `PLANS.md`, `docs/SPEC.md` und die betroffenen Dateien. Codex macht zuerst eine kurze Bestandsaufnahme, ändert nur den ausgewählten Task und prüft das Ergebnis. Commits, Pushes, Veröffentlichungen und Zugangsdaten bleiben eigene, ausdrücklich freizugebende Schritte.
